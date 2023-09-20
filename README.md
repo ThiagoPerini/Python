@@ -1,2 +1,2 @@
 # Python
- Meus Projetos Iniciais
+ Alguns Exercícios
